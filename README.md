@@ -7,12 +7,6 @@
 
 ![Microsoft Pride campaign 17, a Progress Pride flag](https://user-images.githubusercontent.com/8013154/135065127-49a858dd-bc3f-476e-9811-b16fddabb0ea.jpg)
 
-### Bugs of GitHub
-
-[Camo](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls) can't proxy the following image from Azure Blob Storage.
-
-![Microsoft Pride campaign 17, a Progress Pride flag](https://msdesign.blob.core.windows.net/wallpapers/microsoft_pride_campaign_17.jpg)
-
 <!--
 ### Hi there 👋
 
