@@ -4,6 +4,7 @@
 - 💬 Ask me about ... anything?
 - 📫 How to reach me: email or Twitter Direct Message.
 - 😄 Pronouns: she/her
+- 🏅 Proudly performing [antisocial acts](https://www.fsf.org/news/lifes-better-together-when-you-avoid-windows-11/#:~:text=an%20inherently%20antisocial%20act).
 
 ![Microsoft Pride campaign 17, a Progress Pride flag](https://user-images.githubusercontent.com/8013154/135065127-49a858dd-bc3f-476e-9811-b16fddabb0ea.jpg)
 
